@@ -1,4 +1,5 @@
-#tic tac toe
+#Tic Tac Toe
+#Author : Danniboy07
 import os
 import random
 import time
