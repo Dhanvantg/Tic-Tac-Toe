@@ -714,4 +714,3 @@ else:
     print("Its a Draw")
     time.sleep(10)
     exit()
-#By Danny
